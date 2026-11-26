@@ -1,6 +1,6 @@
 # CarPlay & Android Auto Installation Guide
 
-### Geely Coolray – USB Sideload Installation
+### Geely OKAVANGO – USB Sideload Installation
 
 Follow this step-by-step guide to install **Apple CarPlay and Android Auto** on your Geely Coolray head unit.
 
@@ -54,7 +54,7 @@ Download the installation package from the official GitHub repository:
 
 ---
 
-## Part 2: Install on Your Geely Coolray
+## Part 2: Install on Your Geely OKAVANGO
 
 1. Start your vehicle and wait for the head unit to fully boot up.
 2. Insert your prepared USB flash drive into the **passenger-side USB port**.
@@ -97,7 +97,7 @@ If your head unit already has ES File Explorer, you can install the applications
 1. Open the `apks` folder from the extracted ZIP file.
 2. Copy the following APK files to your USB flash drive:
 
-   - `CarPlayCoolray.apk`
+   - `CarPlay.apk`
    - `com.andrerinas.headunitrevived_4.0.0.apk`
 
 3. Insert the USB flash drive into your vehicle's passenger-side USB port.
@@ -161,7 +161,7 @@ Installation is only the first step. Follow the video tutorial below to configur
 
 ---
 
-**Enjoy Apple CarPlay and Android Auto on your Geely Coolray!**
+**Enjoy Apple CarPlay and Android Auto on your Geely OKAVANGO!**
 
 *Installation guide by Mark Lorenzo.*
 
