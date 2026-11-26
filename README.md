@@ -10,7 +10,7 @@ Follow this step-by-step guide to install **Apple CarPlay and Android Auto** on 
 
 Download the installation package from the official GitHub repository:
 
-**[Download CarPlay & Android Auto Sideload Package](https://github.com/mvlorenzo/CarPlay-AndroidAuto-Sideload/archive/refs/heads/main.zip)**
+**[Download CarPlay & Android Auto Sideload Package](https://github.com/mvlorenzo/CarPlay-AndroidAuto-Sideload-OKA/archive/refs/heads/main.zip)**
 
 1. Click the download link above.
 2. Download the ZIP file to your computer.
