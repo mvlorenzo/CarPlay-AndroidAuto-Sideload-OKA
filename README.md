@@ -32,26 +32,6 @@ Download the installation package from the official GitHub repository:
 
    **Important:** Do not copy the entire extracted repository folder. Copy only the four listed items into the USB root directory.
 
-### Screenshots – USB Preparation
-
-**Screenshot 1: GitHub Download Page**
-
-<!-- Add screenshot here -->
-
-*Download the installation package from the official GitHub repository.*
-
-**Screenshot 2: Extracted ZIP Contents**
-
-<!-- Add screenshot here -->
-
-*The extracted folder containing all required installation files.*
-
-**Screenshot 3: USB Flash Drive Root Directory**
-
-<!-- Add screenshot here -->
-
-*All four required files and folders should be placed directly in the USB root directory.*
-
 ---
 
 ## Part 2: Install on Your Geely OKAVANGO
@@ -62,31 +42,11 @@ Download the installation package from the official GitHub repository:
 4. Leave the USB flash drive connected and allow the installation script to run automatically.
 5. Wait for the installation process to finish. Do not remove the USB flash drive or turn off your vehicle during installation.
 
-Once installation is complete, you should see the following apps on your head unit:
+Once installation is complete your device will restart and you should see the following apps on your head unit:
 
 - **CarPlay**
 - **ES File Explorer**
 - **Open Headunit**
-
-### Screenshots – Head Unit Installation
-
-**Screenshot 4: Passenger-side USB Port**
-
-<!-- Add screenshot here -->
-
-*Insert the USB flash drive into the passenger-side USB port.*
-
-**Screenshot 5: USB Installation Popup**
-
-<!-- Add screenshot here -->
-
-*When the popup appears, tap Cancel and allow the installation to proceed.*
-
-**Screenshot 6: Successfully Installed Applications**
-
-<!-- Add screenshot here -->
-
-*Verify that CarPlay, ES File Explorer, and Open Headunit appear on your head unit.*
 
 ---
 
@@ -106,47 +66,28 @@ If your head unit already has ES File Explorer, you can install the applications
 6. Locate and tap each APK file to start the installation.
 7. Follow the on-screen installation prompts.
 
-### Screenshots – Manual Installation
-
-**Screenshot 7: APK Files**
-
-<!-- Add screenshot here -->
-
-*The two APK installation files inside the `apks` folder.*
-
-**Screenshot 8: ES File Explorer**
-
-<!-- Add screenshot here -->
-
-*Navigate to the USB flash drive using ES File Explorer.*
-
-**Screenshot 9: APK Installation Prompt**
-
-<!-- Add screenshot here -->
-
-*Tap the APK file and follow the installation prompts.*
-
 ---
 
-## Part 3: CarPlay & Android Auto Setup
+## Part 3: Configure CarPlay & Open Headunit
 
-Installation is only the first step. Follow the video tutorial below to configure and connect your iPhone or Android device.
+### Set Up CarPlay
 
-### Watch the CarPlay & Android Auto Setup Tutorial
+CarPlay setup is straightforward:
 
-<!-- Replace this placeholder with your YouTube video URL -->
+1. Open the **CarPlay** app on your head unit.
+2. Follow the instructions displayed on the screen.
+3. Complete the on-screen setup.
 
-[Insert YouTube Video Link Here]
+### Configure Open Headunit
 
-### Screenshots – Final Setup
+Before connecting your phone, import the supplied configuration file:
 
-**Screenshot 10: CarPlay Interface**
+1. Open the **Open Headunit** app.
+2. Find the option to import or load a configuration file.
+3. Select `open-headunit-settings.json` from your USB flash drive.
+4. Import the file and apply the configuration.
 
-<!-- Add screenshot here -->
-
-**Screenshot 11: Android Auto Interface**
-
-<!-- Add screenshot here -->
+Once the configuration has been imported, Open Headunit is ready to use.
 
 ---
 
@@ -163,7 +104,7 @@ Installation is only the first step. Follow the video tutorial below to configur
 
 **Enjoy Apple CarPlay and Android Auto on your Geely OKAVANGO!**
 
-*Installation guide by Mark Lorenzo.*
+*Installation guide by [Mark Lorenzo](mailto:mv.lorenzo@icloud.com).*
 
 **Source Code & Installation Files:**  
 [GitHub – CarPlay & Android Auto Sideload](https://github.com/mvlorenzo/CarPlay-AndroidAuto-Sideload)
