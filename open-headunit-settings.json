@@ -1,0 +1,50 @@
+{
+  "app": {
+    "versionCode": 123,
+    "versionName": "4.0.0"
+  },
+  "settings": {
+    "home-background-night-mode": 0,
+    "hotspot-band": 2,
+    "separate-audio-streams": false,
+    "resolutionId": 0,
+    "use-aaudio-output": false,
+    "bt-address": "A4:04:50:A5:7A:33",
+    "use-gradient-background": false,
+    "system-audio-stream": 3,
+    "auto-start-self-mode": false,
+    "auto-monochrome-buttons-at-night": false,
+    "native-poke-bt-macs": [],
+    "connection-modes": [
+      "usb",
+      "wifi"
+    ],
+    "wifi-direct-band": 2,
+    "wifi-5ghz-channel": 0,
+    "auto-connect-priority-order": "last-session,self-mode,single-usb",
+    "auto-connect-single-usb": true,
+    "video-codec": "H.264",
+    "hide-battery-level": true,
+    "home-button-scale-percent": 100,
+    "video-fit-mode": 1,
+    "advanced-settings-active": true,
+    "screen-orientation": 2,
+    "hide-phone-signal": true,
+    "native-ap-transport": 1,
+    "auto-enable-hotspot": true,
+    "dpi-pixel-density": 0,
+    "vehicle-make": "Geely",
+    "gps-navigation": false,
+    "guidance-audio-stream": 3,
+    "head-unit-make": "Geely",
+    "auto-start-bt-macs": [],
+    "vehicle-display-name": "Geely",
+    "media-audio-stream": 3,
+    "display-size-preset": "STANDARD_9_10",
+    "show-home-clock": true,
+    "auto-connect-last-session": true,
+    "view-mode": 1
+  },
+  "version": 1,
+  "format": "open-headunit-settings"
+}
